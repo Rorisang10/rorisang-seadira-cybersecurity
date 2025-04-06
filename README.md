@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I am a **Cyber Security Analyst** with extensive h
 - **Gender:** Male
 - **Race:** African
 - **Languages:** English
-- **ID Number:** 9512155977080
 
 ## Education / Qualifications
 - **Diploma in Information Technology** – Central University of Technology
