@@ -59,6 +59,14 @@ Welcome to my GitHub profile! I am a **Cyber Security Analyst** with extensive h
 
 ## Professional Experience
 
+## **L1 Cyber Security Analyst** (Freelance)
+*Various Clients | Dec 2023 – Present*
+- Monitored and triaged security alerts (SIEM) for malware, phishing, Web attacks, and unauthorized access.
+- Investigated incidents using VirusTotal, Any.Run, and LetsDefend; performed IOC analysis.
+- Executed containment (device isolation).
+- Leveraged EDR, log analysis, and threat intel platforms to assess and escalate threats.
+- Delivered rapid incident response and documented playbook-aligned actions.
+
 ### **L1 Server Engineer** at iOCO Infrastructure  
 *March 2024 - Present*  
 - Specialize in the administration and maintenance of server infrastructure.
